@@ -1,0 +1,4 @@
+#Wed Mar 24 09:57:12 WIB 2021
+base.0=/Users/fandisujatmiko/Downloads/customer_satisfaction/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

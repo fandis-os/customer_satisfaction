@@ -1,0 +1,4 @@
+#Tue Mar 09 11:00:39 WIB 2021
+base.0=/Users/fandisujatmiko/Downloads/customer_satisfaction/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
